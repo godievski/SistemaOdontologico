@@ -1,0 +1,35 @@
+<Odontologos>
+	<Odontologo>
+		<DNI>12342278</DNI>
+		<Nombre>Juan</Nombre>
+		<ApellidoPat>Perez</ApellidoPat>
+		<ApellidoMat>Aliaga</ApellidoMat>
+		<FechaNac>09/01/1987</FechaNac>
+		<sexo>Masculino</sexo>
+		<Direccion>Prueba</Direccion>
+		<Especialidad>Endodoncia</Especialidad>
+		<Universidad>PULP</Universidad>
+	</Odontologo>
+	<Odontologo>
+		<DNI>23322678</DNI>
+		<Nombre>Jose</Nombre>
+		<ApellidoPat>Guardia</ApellidoPat>
+		<ApellidoMat>Morales</ApellidoMat>
+		<FechaNac>12/10/1959</FechaNac>
+		<sexo>Masculino</sexo>
+		<Direccion>Prueba</Direccion>
+		<Especialidad>Endodoncia</Especialidad>
+		<Universidad>Villarica</Universidad>		
+	</Odontologo>
+	<Odontologo>
+		<DNI>23212228</DNI>
+		<Nombre>Carolina</Nombre>
+		<ApellidoPat>Ospina</ApellidoPat>
+		<ApellidoMat>Lpoez</ApellidoMat>
+		<FechaNac>12/10/1985</FechaNac>
+		<sexo>Femenino</sexo>
+		<Direccion>Prueba</Direccion>
+		<Especialidad>Ortodoncia</Especialidad>
+		<Universidad>UCH</Universidad>
+	</Odontologo>
+</Odontologos>

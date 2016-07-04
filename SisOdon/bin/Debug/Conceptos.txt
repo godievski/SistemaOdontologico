@@ -1,0 +1,4 @@
+Protesis,1250.00
+Honorarios,1500.00
+Brackets,2400.00
+Materiales,200.00
